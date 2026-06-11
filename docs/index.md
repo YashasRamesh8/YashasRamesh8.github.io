@@ -68,49 +68,40 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
     - QGIS, ArcGIS Pro, Google Earth Engine
     - GDAL / OGR, GRASS GIS
-    - Multispectral and SAR image analysis
-    - Cloud Native Geospatial (COG, STAC, Zarr)
+    
 
 -   :material-code-braces:{ .lg .middle } **Programming**
 
     ---
 
     - Python — GeoPandas, NumPy, Pandas, Matplotlib
-    - R — sf, terra, ggplot2
-    - JavaScript — Leaflet, MapLibre GL
     - SQL, PostgreSQL + PostGIS
 
 -   :material-star-four-points:{ .lg .middle } **Machine Learning & GeoAI**
 
     ---
 
-    - Supervised classification — Random Forest, XGBoost
-    - Deep learning for image segmentation — U-Net, SAM
-    - scikit-learn, PyTorch, TensorFlow
-    - Object detection in satellite imagery
+    - Supervised classification — Random Forest
 
--   :material-earth:{ .lg .middle } **Web Mapping & Data**
-
-    ---
-
-    - Leaflet.js, Folium, MapLibre GL JS
-    - Cloud storage — AWS S3, Google Cloud Storage
-    - Data formats — GeoTIFF, GeoParquet, NetCDF
-    - Streamlit for data-driven web apps
 
 -   :material-database:{ .lg .middle } **Data & Cloud**
 
     ---
 
     - PostgreSQL + PostGIS
-    - Cloud storage: AWS S3, Google Cloud Storage
-    - Data formats: GeoJSON, GeoTIFF, NetCDF, Zarr, GeoParquet
+    - Data formats: GeoJSON, GeoTIFF, NetCDF
 
 -   :material-airplane:{ .lg .middle } **Drone / UAV Data Processing**
 
     - Mission planning and flight operations
     - Photogrammetry: Agisoft Metashape, OpenDroneMap
     - Point cloud processing: CloudCompare, PDAL
+
+-   :material-airplane:{ .lg .middle } **LiDAR Data Processing**
+
+    - Pre-Processing: DJI Terra
+    - Post-Processing: Spatix
+    - LiPowerline
 </div>
 
 
@@ -119,4 +110,4 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 ## Connect
 
 [GitHub](https://github.com/[YOUR-GITHUB-USERNAME]){ .md-button }
-[LinkedIn](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]){ .md-button }
+[LinkedIn](https://linkedin.com/in/Yashas Ramesh){ .md-button }
