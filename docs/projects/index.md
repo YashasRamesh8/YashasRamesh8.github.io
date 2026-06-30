@@ -21,27 +21,73 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 <div class="project-card" markdown>
 ![](../assets/images/placeholder-project.png)
 
-**[Sample Project](sample-project.md)**
+**[Forest Fire Risk Zonation – Chikmagaluru District](FFRD_Chikmagaluru.md)**
 
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
+Built a forest fire risk zoning model for Chikmagaluru using remote sensing, terrain, climate, and land-use data to map vulnerable areas and support mitigation planning.
 
-`[TOOL 1]` `[TOOL 2]` `[TOOL 3]`
+`ArcGIS` `QGIS` `Google Earth Engine` `Python`
 
-[View Project →](sample-project.md){ .md-button }
+[View Project →](FFRD_Chikmagaluru.md){ .md-button }
 </div>
 
 <div class="project-card" markdown>
-![](../assets/images/placeholder-notebook.png)
+![](../assets/images/PFZ.png)
 
-**[Sample Notebook](sample-notebook.ipynb)**
+**[Potential Fishing Zone (PFZ) Mapping](PFZ_MiniProject.md)**
 
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
+Mapped PFZs along the Indian coast using SST and Chlorophyll-a data, then validated the outputs against INCOIS advisory information.
 
-`Python` `pandas` `Folium`
+`Remote Sensing` `SeaDAS` `MODIS` `Python`
 
-[View Project →](sample-notebook.ipynb){ .md-button }
+[View Project →](PFZ_MiniProject.md){ .md-button }
+</div>
+
+<div class="project-card" markdown>
+![](../assets/images/MCDR_Check.png)
+
+**[MCDR 2026 QC Checker](MCDR2026_QC_Checklist.ipynb)**
+
+Built an automated QC workflow for MCDR 2026 deliverables to validate raster metadata, shapefiles, RMSE outputs, drone logs, and annexure consistency.
+
+`Python` `GeoPandas` `Rasterio` `pandas`
+
+[Open Notebook →](MCDR2026_QC_Checklist.ipynb){ .md-button }
+</div>
+
+<div class="project-card" markdown>
+![](../assets/images/GCP.png)
+
+**[GCP Workflow Notebook](GCPs_IBM_deliverables_workflow.ipynb)**
+
+Explains the end-to-end process for converting GCP/PGCP inputs into geographic coordinates, derived fields, and output deliverables.
+
+`Python` `GeoPandas` `PyProj` `pandas`
+
+[Open Notebook →](GCPs_IBM_deliverables_workflow.ipynb){ .md-button }
+</div>
+
+<div class="project-card" markdown>
+![](../assets/images/PySEBAL.png)
+
+**[Crop-Water Productivity – Tungabhadra Left Bank Canal](Crop_Productivity.md)**
+
+Estimated spatially explicit actual evapotranspiration and water productivity for the Tungabhadra Left Bank Canal command area using PySEBAL, Landsat, GLDAS, and HiHydroSoil data.
+
+`PySEBAL` `Landsat` `GLDAS` `Google Earth Engine` `QGIS` `Python`
+
+[View Project →](Crop_Productivity.md){ .md-button }
+</div>
+
+<div class="project-card" markdown>
+![](../assets/images/Rain.png)
+
+**[Rainfall Data Validation & GIS Mapping – Tungabhadra](Rainfall_Data_Validation.md)**
+
+Applied ACIWRM's data validation framework to compare Standard and Autographic Rain Gauge records, and geo-referenced raingauge station data for the Tungabhadra basin in QGIS and ArcGIS.
+
+`QGIS` `ArcGIS` `IMD Data` `Hydrology`
+
+[View Project →](Rainfall_Data_Validation.md){ .md-button }
 </div>
 
 </div>

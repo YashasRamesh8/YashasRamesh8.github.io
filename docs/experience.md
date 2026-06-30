@@ -12,6 +12,8 @@ hide:
 
 <div class="timeline-entry" markdown>
 
+<img src="../assets/images/Skylark.png" alt="Skylark Drones" style="float: right; width: 180px; margin: 0 0 0.5rem 1.5rem;" />
+
 ### GIS Analyst — Skylark Drones
 *September 2024 – Present | Bengaluru, India*
 
@@ -25,6 +27,8 @@ hide:
 
 <div class="timeline-entry" markdown>
 
+<img src="../assets/images/Skylark.png" alt="Skylark Drones" style="float: right; width: 180px; margin: 0 0 0.5rem 1.5rem;" />
+
 ### GIS Intern — Skylark Drones
 *March 2024 – September 2024 | Bengaluru, India*
 
@@ -35,6 +39,8 @@ hide:
 </div>
 
 <div class="timeline-entry" markdown>
+
+<img src="../assets/images/KSRSAC.png" alt="KSRSAC" style="float: right; width: 110px; margin: 0 2rem 0.5rem 1.5rem;" />
 
 ### Project Associate — Karnataka State Remote Sensing Applications Centre
 *August 2023 – February 2024 | Karnataka, India*
@@ -66,5 +72,7 @@ Graduated with a CGPA of 8.18.
 
 ## Certifications
 
-- GATE 2023 – Geomatics Engineering — IITK/IISE, 2023 *(All India Rank 103)*
+- GATE 2023 – Geomatics Engineering — IITK/IISE, 2023 *(All India Rank 103)* — [View Scorecard](assets/C366Z86ScoreCard%20(1).pdf){ target="_blank" }
 - Going Places with Spatial Analysis — ESRI MOOC
+- Spatial Data Science - ESRI MOOC
+- GIS for Climate Action - ESRI MOOC

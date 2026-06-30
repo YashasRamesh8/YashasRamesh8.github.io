@@ -19,10 +19,13 @@ CHECKLIST FOR THIS PAGE:
 
 
 <div class="hero">
+  <div class="hero-badges" aria-hidden="true">
+
+  </div>
   <img src="assets/images/profile.png" alt="Yashas Ramesh" class="profile-photo">
   <h1>YASHAS RAMESH</h1>
   <p><strong>GIS ENGINEER</strong></p>
-  <p><em>[Turning spatial data into insights | GIS | Remote Sensing | UAV | LiDAR | Python | ]</em></p>
+  <p><em>GIS | Remote Sensing | UAV | LiDAR | Python</em></p>
 </div>
 
 ---
@@ -32,15 +35,19 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-[Replace this paragraph with your own bio. Write 3–4 sentences covering: your background and
-what you specialize in, the kinds of problems you work on, the tools and methods you use,
-and what you are currently looking for. Example below:]
+I am a GIS and Geospatial Engineer with experience in remote sensing, UAV photogrammetry,
+LiDAR processing, and geospatial data analysis. My work involves transforming satellite,
+aerial, and field datasets into practical outputs for mapping, planning, and decision-making.
 
-I am a geospatial data scientist with a background in remote sensing and machine learning.
-I work on extracting actionable insights from satellite imagery and large spatial datasets
-using Python, Google Earth Engine, and open-source GIS tools. I am passionate about applying
-GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban
-planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TARGET LOCATION].
+I have worked with ArcGIS Pro, QGIS, Google Earth Engine, and Python tools such as GeoPandas,
+Rasterio, Pandas, and NumPy for spatial analysis and automation. I also have hands-on experience
+in processing drone imagery, point clouds, and raster datasets for environmental and infrastructure
+applications.
+
+My interest lies in combining geospatial science, data-driven workflows, and practical problem
+solving to support sustainable land and resource management. I am especially motivated by projects
+that connect data, technology, and field realities.
+
 
 </div>
 
@@ -74,14 +81,9 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
     ---
 
-    - Python — GeoPandas, NumPy, Pandas, Matplotlib
+    - Python — GeoPandas, NumPy, Pandas
     - SQL, PostgreSQL + PostGIS
 
--   :material-star-four-points:{ .lg .middle } **Machine Learning & GeoAI**
-
-    ---
-
-    - Supervised classification — Random Forest
 
 
 -   :material-database:{ .lg .middle } **Data & Cloud**
@@ -109,5 +111,6 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
 ## Connect
 
-[GitHub](https://github.com/[YOUR-GITHUB-USERNAME]){ .md-button }
-[LinkedIn](https://linkedin.com/in/Yashas Ramesh){ .md-button }
+[GitHub](https://github.com/YashasRamesh8
+){ .md-button }
+[LinkedIn](https://linkedin.com/in/YashasRamesh){ .md-button }

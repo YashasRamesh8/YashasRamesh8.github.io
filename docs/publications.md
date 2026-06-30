@@ -11,8 +11,9 @@ CHECKLIST FOR THIS PAGE:
 - [ ] Add DOI or URL links where available
 -->
 
-# Publications
+<!--# Presentations
 
+<!--
 ## Journal Articles
 
 1. [YOUR NAME], [CO-AUTHOR NAME], and [CO-AUTHOR NAME] ([YEAR]). "[Your paper title here]." *[Journal Name]*, [Volume] [Issue], [Page range]. [DOI link or URL]
@@ -22,18 +23,19 @@ CHECKLIST FOR THIS PAGE:
 3. [YOUR NAME] ([YEAR]). "[Your paper title here]." *[Journal Name]*, [Volume] [Issue], [Page range]. [DOI link or URL]
 
 ---
+-->
 
-## Conference Papers & Presentations
+<!--## Presentation-->
 
-1. [YOUR NAME] and [CO-AUTHOR NAME] ([YEAR]). "[Your presentation title]." *[Conference Name]*, [City, Country].
-
-2. [YOUR NAME] ([YEAR]). "[Your presentation title]." *[Conference Name]*, [City, Country].
+1. Yashas Ramesh (2026). "Drones & GIS Workshop Presentation." *Sir M. Visvesvaraya Institute of Technology*, Bengaluru, May 2026. [Presentation summary and PPT](projects/Drones_GIS_Workshop.md).
 
 ---
 
+<!--
 ## Theses
 
 - [YOUR NAME] ([YEAR]). *[Your thesis title]*. [Degree type] thesis. [University Name].
+
 
 ---
 
@@ -44,3 +46,5 @@ CHECKLIST FOR THIS PAGE:
 ---
 
 *For citation counts and a full list, see [Google Scholar](https://scholar.google.com) or [ResearchGate](https://www.researchgate.net).*
+
+-->
