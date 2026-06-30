@@ -10,10 +10,37 @@
 
 /* Hero section on the Home page */
 .hero {
+  position: relative;
+  overflow: hidden;
   text-align: center;
-  padding: 1rem 1rem 1.25rem 1rem;
-  background: linear-gradient(135deg, #e8f4f8 0%, #f0f7ff 50%, #e8f0fe 100%);
+  padding: 1.25rem 1rem 1.5rem 1rem;
+  background:
+    radial-gradient(circle at top, rgba(110, 187, 255, 0.12), transparent 18%),
+    linear-gradient(135deg, #e8f4f8 0%, #f0f7ff 50%, #e8f0fe 100%);
   border-radius: 8px;
+}
+
+.hero::before,
+.hero::after {
+  content: '';
+  position: absolute;
+  border-radius: 999px;
+  background: radial-gradient(circle, rgba(78, 148, 255, 0.08), rgba(78, 148, 255, 0));
+  pointer-events: none;
+}
+
+.hero::before {
+  width: 140px;
+  height: 140px;
+  top: 0.5rem;
+  left: 10%;
+}
+
+.hero::after {
+  width: 180px;
+  height: 180px;
+  bottom: -2rem;
+  right: 8%;
 }
 
 .hero h1 {
@@ -28,6 +55,132 @@
 
 .hero + hr {
   margin-top: 0.5rem;
+}
+
+.hero-badges {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  overflow: hidden;
+}
+
+.tiny-badge {
+  position: absolute;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 1.9rem;
+  height: 1.9rem;
+  padding: 0 0.35rem;
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  line-height: 1;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.78);
+  border: 1px solid rgba(170, 203, 255, 0.58);
+  box-shadow: 0 3px 10px rgba(82, 126, 194, 0.08);
+  opacity: 0.82;
+  animation: floatTiny 5.5s ease-in-out infinite;
+}
+
+.badge-drone {
+  top: 14%;
+  left: 16%;
+  animation-delay: 0s;
+}
+
+.badge-satellite {
+  top: 10%;
+  right: 18%;
+  animation-delay: 1s;
+}
+
+.badge-python {
+  top: 56%;
+  left: 18%;
+  animation-delay: 1.6s;
+}
+
+.badge-lidar {
+  top: 62%;
+  right: 16%;
+  animation-delay: 2.2s;
+}
+
+.badge-map {
+  top: 76%;
+  left: 48%;
+  animation-delay: 0.8s;
+}
+
+.badge-gis {
+  top: 22%;
+  left: 48%;
+  animation-delay: 2.7s;
+}
+
+.badge-rs {
+  top: 32%;
+  right: 28%;
+  animation-delay: 3.1s;
+}
+
+.badge-qgis {
+  top: 38%;
+  left: 30%;
+  animation-delay: 3.6s;
+}
+
+.badge-gee {
+  top: 44%;
+  right: 38%;
+  animation-delay: 2.3s;
+}
+
+.badge-postgis {
+  top: 68%;
+  left: 32%;
+  animation-delay: 1.2s;
+}
+
+.badge-geojson {
+  top: 26%;
+  right: 8%;
+  animation-delay: 1.9s;
+}
+
+.badge-planet {
+  top: 50%;
+  left: 62%;
+  animation-delay: 0.4s;
+}
+
+.badge-cloud {
+  top: 82%;
+  right: 27%;
+  animation-delay: 2.8s;
+}
+
+.badge-automation {
+  top: 72%;
+  left: 10%;
+  animation-delay: 3.4s;
+}
+
+.badge-data {
+  top: 84%;
+  left: 58%;
+  animation-delay: 4.1s;
+}
+
+@keyframes floatTiny {
+  0%, 100% {
+    transform: translateY(0px) scale(1);
+  }
+  50% {
+    transform: translateY(-4px) scale(1.04);
+  }
 }
 
 /* About Me section on the Home page */
