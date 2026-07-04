@@ -95,15 +95,23 @@ that connect data, technology, and field realities.
 
 -   :material-airplane:{ .lg .middle } **Drone / UAV Data Processing**
 
-    - Mission planning and flight operations
     - Photogrammetry: Agisoft Metashape, OpenDroneMap
     - Point cloud processing: CloudCompare, PDAL
+    - GNSS Processing: Leica Infinity, CORS/Virtual RINEX
 
 -   :material-airplane:{ .lg .middle } **LiDAR Data Processing**
 
     - Pre-Processing: DJI Terra
     - Post-Processing: Spatix
     - LiPowerline
+
+-   :material-web:{ .lg .middle } **Web & Documentation**
+
+    ---
+
+    - GitHub, GitHub Pages, Static Site Generators (MkDocs)
+    - Using LLMs for data extraction and Markdown content creation
+
 </div>
 
 

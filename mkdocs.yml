@@ -87,6 +87,6 @@ nav:
     - "GCP Validation Notebook": projects/GCPs_IBM_deliverables_validation.ipynb
     - "Crop-Water Productivity (ACIWRM)": projects/Crop_Productivity.md
     - "Rainfall Data Validation (ACIWRM)": projects/Rainfall_Data_Validation.md
-  - Presentations: publications.md
+  - Publications: publications.md
   - Experience: experience.md
   - Contact: contact.md

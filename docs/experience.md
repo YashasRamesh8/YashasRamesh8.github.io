@@ -73,6 +73,7 @@ Graduated with a CGPA of 8.18.
 ## Certifications
 
 - GATE 2023 – Geomatics Engineering — IITK/IISE, 2023 *(All India Rank 103)* — [View Scorecard](assets/C366Z86ScoreCard%20(1).pdf){ target="_blank" }
+- Building Your Geospatial Portfolio Website — Spatial Thoughts, June 2026 — [View Certificate](assets/ST-GIT-957.pdf){ target="_blank" }
 - Going Places with Spatial Analysis — ESRI MOOC
 - Spatial Data Science - ESRI MOOC
 - GIS for Climate Action - ESRI MOOC
