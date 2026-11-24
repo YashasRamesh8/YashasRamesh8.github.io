@@ -24,7 +24,7 @@ CHECKLIST FOR THIS PAGE:
   </div>
   <img src="assets/images/profile.png" alt="Yashas Ramesh" class="profile-photo">
   <h1>YASHAS RAMESH</h1>
-  <p><strong>GIS ENGINEER</strong></p>
+  <p><strong>SENIOR GIS ENGINEER</strong></p>
   <p><em>GIS | Remote Sensing | UAV | LiDAR | Python</em></p>
 </div>
 
